@@ -37,7 +37,7 @@
 		<header class="header">
 			<div class="avatar"><span>DR</span></div>
 			<div>
-				<h1>Nama Dosen, M.Sc., Ph.D.</h1>
+				<h1>Suhadi Parman, M.Kom.</h1>
 				<div class="subtitle">Dosen | UIN Syekh Nurjati Cirebon — Fakultas Sains & Teknologi</div>
 				<div class="subtitle">Fokus: Kecerdasan Buatan, Pembelajaran Mesin, Data Sains</div>
 			</div>
